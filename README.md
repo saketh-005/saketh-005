@@ -25,7 +25,7 @@ I'm a passionate developer with expertise in various technologies. I love buildi
 
 ## 📈 Activity Graph
 
-[![Saketh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saketh-005&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saketh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saketh-005&bg_color=1a1b27&color=e4b3f7&line=ff6bff&point=ffb3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect
 
