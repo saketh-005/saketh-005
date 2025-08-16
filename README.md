@@ -23,6 +23,10 @@ I'm a passionate developer with expertise in various technologies. I love buildi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-005&layout=compact&theme=radical)
 
+## 📈 Activity Graph
+
+[![Saketh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saketh-005&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Let's Connect
 
 - 📧 Email: [saketh.jangala@outlook.com](mailto:saketh.jangala@outlook.com)
