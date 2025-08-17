@@ -43,12 +43,13 @@ _Click to see my recent merged pull requests and other contributions._
 
 ---
 
-## 🔥 GitHub Streak & Trophies
+## 🔥 GitHub Streak
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=saketh-005&theme=radical)](https://git.io/streak-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=saketh-005&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saketh-005&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saketh-005&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
