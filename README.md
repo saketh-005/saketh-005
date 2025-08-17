@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Saketh Jangala
+# 👋 Hi, I'm Saketh Jangala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saketh-jangala/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saketh_jangala)
@@ -17,15 +17,23 @@ I'm a passionate developer with expertise in various technologies. I love buildi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saketh-005&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-005&layout=compact&theme=radical)
 
-## 📈 Activity Graph
+---
 
-[![Saketh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saketh-005&bg_color=1a1b27&color=e4b3f7&line=ff6bff&point=ffb3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 Recent Activity
+
+_Click to see my recent merged pull requests and other contributions._
+
+[![saketh-005's Recent Activity](https://github-readme-activity-list.vercel.app/api?username=saketh-005&limit=5&theme=radical)](https://github.com/pulls?q=is%3Apr+author%3Asaketh-005+is%3Amerged)
+
+---
 
 ## 📫 Let's Connect
 
@@ -33,13 +41,14 @@ I'm a passionate developer with expertise in various technologies. I love buildi
 - 💼 LinkedIn: [Saketh Jangala](https://www.linkedin.com/in/saketh-jangala/)
 - 🐦 X (Twitter): [@saketh_jangala](https://x.com/saketh_jangala)
 
-## 🔥 GitHub Streak
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saketh-005&theme=radical)](https://git.io/streak-stats)
+## 🔥 GitHub Streak & Trophies
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saketh-005&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=saketh-005&theme=radical)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=saketh-005&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
